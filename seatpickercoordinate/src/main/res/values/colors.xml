@@ -1,0 +1,28 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_600">#FF757575</color>
+
+    <!-- Biletinial Color Palette -->
+    <color name="ticket_yellow">#F8E71C</color>
+    <color name="grass_green">#04B779</color>
+    <color name="alert_red">#B73027</color>
+    <color name="sky_blue">#0A84FF</color>
+    <color name="purple">#683765</color>
+
+
+    <color name="pitch_black">#000000</color>
+    <color name="dark_gray">#747474</color>
+    <color name="subtle_gray">#9C9C9C</color>
+    <color name="light_gray">#F6F6F6</color>
+    <color name="flat_white">#FFFFFF</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+
+</resources>
